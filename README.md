@@ -40,19 +40,19 @@
 ![Main1](https://github.com/DoooHyun/Portfolio/assets/134381988/f294a00e-bcae-42fc-9d5e-adb1b0c426e7)
 
 ### 공지&이벤트 작성 페이지
-![create1](https://github.com/DoooHyun/Portfolio/assets/134381988/2be55177-aa4f-4283-8e62-1895c35238d6)
-![create2](https://github.com/DoooHyun/Portfolio/assets/134381988/ac422aa0-b29d-40b2-b9bf-473183986d35)
+![create1](https://github.com/DoooHyun/Portfolio/assets/134381988/1179e37f-354d-4b80-9886-142927b17f9c)
+![create2](https://github.com/DoooHyun/Portfolio/assets/134381988/b37973da-068b-4661-901f-6139314c35f3)
 
 ### 공지&이벤트 상세보기 페이지
-![detail1](https://github.com/DoooHyun/Portfolio/assets/134381988/d49a0965-3583-485f-96cb-f42c06041639)
-![detail2](https://github.com/DoooHyun/Portfolio/assets/134381988/a76a4cf5-6125-4f66-9b3b-531d6eebca71)
+![detail1](https://github.com/DoooHyun/Portfolio/assets/134381988/f4c0482a-c24c-4878-945f-bfd4ac31c1f4)
+![detail2](https://github.com/DoooHyun/Portfolio/assets/134381988/b52b1e96-7ca1-48e6-81d2-5655fd813955)
 
 ### 공지&이벤트 수정 페이지
-![modify1](https://github.com/DoooHyun/Portfolio/assets/134381988/b04ea5b7-23c5-4090-a37e-2134539cef79)
-![modify2](https://github.com/DoooHyun/Portfolio/assets/134381988/ca4acda0-142a-4f59-83d1-3c3fd704cb63)
+![modify1](https://github.com/DoooHyun/Portfolio/assets/134381988/d5d30f8a-1fb8-4e3e-84d6-97f115450e33)
+![modify2](https://github.com/DoooHyun/Portfolio/assets/134381988/5b3554bb-eb55-4672-b2f8-a714b56c7fcc)
 
 ### 공지&이벤트 리스트 페이지
-![User](https://github.com/DoooHyun/Portfolio/assets/134381988/81a76016-eeb7-40b6-9c12-16e1394cba9c)
+![User](https://github.com/DoooHyun/Portfolio/assets/134381988/2050aff7-dc37-4227-b988-e25ee7cffa3b)
 
 
 
