@@ -8,9 +8,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-프로젝트 - 1
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandena&show_icons=true&theme=radical) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandena&layout=compact)](https://github.com/brandena/github-readme-stats)-->
+프로젝트 - 1 
 =============
+![middlePjLanding](https://github.com/DoooHyun/Portfolio/assets/134381988/77ca132f-4e7a-4bc1-87ee-80ef3308e50f)
 > 프로젝트: 전통주 경매 쇼핑 플랫폼
 >
 > 분류: 팀프로젝트
@@ -21,6 +23,23 @@
 
 구현 기능
 ===========
+### 1. 로그인&회원가입 페이지
+- 로그인 View에서 등록되지 않은 이메일이면 회원가입 페이지로 이동함
+- 회원가입시 각 input마다 제약조건 있으며 닉네임 중복체크, 우편번호 찾기 가능
+- 이메일, 이름, 전화번호 입력후 비밀번호 찾기 가능
+![signup1](https://github.com/DoooHyun/Portfolio/assets/134381988/2ade2044-3ca3-4935-bcad-11828e57851f)
+![signup2](https://github.com/DoooHyun/Portfolio/assets/134381988/dd3fc675-8a4d-4ce1-8be6-25b2a3d10cbb)
+
+### 2. 회원정보 수정 페이지
+- 마이페이지에서 비밀번호, 전화번호 주소 수정가능
+![member1](https://github.com/DoooHyun/Portfolio/assets/134381988/e7f63e95-a058-4be2-9eb9-62f2cd1bf247)
+![member2](https://github.com/DoooHyun/Portfolio/assets/134381988/4e2edbb5-d276-4f05-833a-facf7cfe8f2b)
+
+### 3, 회원계정 활성화/비활성화 페이지
+- 마이페이지에서 계정 비활성화 버튼 누르고 비밀번호 입력하면 계정 비활성화 가능
+- 로그인할 때 비활성화 계정이면 활성화 시키는 페이지로 이동 후 비밀번호 입력하면 활성화 가능 
+![member3](https://github.com/DoooHyun/Portfolio/assets/134381988/977f4fb2-8517-4f63-99be-2209bb14978c)
+
 
 프로젝트 - 2
 =============
