@@ -1,6 +1,20 @@
 :wave: portfolio:wave:
 ==============
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandena&show_icons=true&theme=radical) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandena&layout=compact)](https://github.com/brandena/github-readme-stats)-->
+
+# 개요
+- 기술 스택
+  
+- 팀프로잭트 - 1
+  - 전통주 쇼핑 경매 플랫폼
+    - 기능 소개
+ 
+- 팀프로잭트 - 2
+  - 소개팅 웹사이트
+    - 기능소개
+  
 :+1:기술스택
 =========
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -10,19 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandena&show_icons=true&theme=radical) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandena&layout=compact)](https://github.com/brandena/github-readme-stats)-->
-
-# 개요
-- 팀프로잭트 - 1
-  - 전통주 쇼핑 경매 플랫폼
-    - 기능 소개
- 
-- 팀프로잭트 - 2
-  - 소개팅 웹사이트
-    - 기능소개
-   
       
  :books:프로젝트 - 1 
 =============
