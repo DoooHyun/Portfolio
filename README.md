@@ -24,6 +24,7 @@
 
 프로젝트 - 2
 =============
+![landing page](https://github.com/DoooHyun/Portfolio/assets/134381988/76e9e88e-a34c-4be1-b1f2-6f2df8cc51b6)
 > 프로젝트: 소개팅 웹사이트
 >
 > 분류: 팀프로젝트
