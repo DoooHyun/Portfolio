@@ -36,23 +36,29 @@
  구현 기능
  ===========
 
- ### 공지&이벤트 메인 페이지
+ ### 1. 공지&이벤트 메인 페이지
+ - 공지&이벤트 작성 글을 리스트 형식으로 보여줌
+ - 제목을 클릭하면 해당 들의 디테일 페이지로 이동함
 ![Main1](https://github.com/DoooHyun/Portfolio/assets/134381988/31a8f54b-c67c-4ade-ae88-925f03c03f21)
 
-### 공지&이벤트 작성 페이지
+  
+### 2. 공지&이벤트 작성 페이지
+- 공지&이벤트 글을 작성할 수 있으며 사진 업로드 가능
 ![create1](https://github.com/DoooHyun/Portfolio/assets/134381988/1179e37f-354d-4b80-9886-142927b17f9c)
 ![create2](https://github.com/DoooHyun/Portfolio/assets/134381988/b37973da-068b-4661-901f-6139314c35f3)
-
-### 공지&이벤트 상세보기 페이지
+  
+### 3. 공지&이벤트 상세보기 페이지
+- 클릭한 글을 상세보기 할 수 있음
 ![detail1](https://github.com/DoooHyun/Portfolio/assets/134381988/f4c0482a-c24c-4878-945f-bfd4ac31c1f4)
 ![detail2](https://github.com/DoooHyun/Portfolio/assets/134381988/b52b1e96-7ca1-48e6-81d2-5655fd813955)
 
-### 공지&이벤트 수정 페이지
+### 4. 공지&이벤트 수정 페이지
+- 공지&이벤트 글을 수정할 수 있으며 사진 수정도 가능
 ![modify1](https://github.com/DoooHyun/Portfolio/assets/134381988/d5d30f8a-1fb8-4e3e-84d6-97f115450e33)
 ![modify2](https://github.com/DoooHyun/Portfolio/assets/134381988/5b3554bb-eb55-4672-b2f8-a714b56c7fcc)
 
-### 공지&이벤트 리스트 페이지
+### 5. 공지&이벤트 리스트 페이지
+- 작성된 글들을 카드 형식으로 유저가 볼 수 있음
 ![User](https://github.com/DoooHyun/Portfolio/assets/134381988/2050aff7-dc37-4227-b988-e25ee7cffa3b)
-
 
 
