@@ -41,7 +41,7 @@
 ![detail2](https://github.com/DoooHyun/Portfolio/assets/134381988/a76a4cf5-6125-4f66-9b3b-531d6eebca71)
 ![modify1](https://github.com/DoooHyun/Portfolio/assets/134381988/b04ea5b7-23c5-4090-a37e-2134539cef79)
 ![modify2](https://github.com/DoooHyun/Portfolio/assets/134381988/ca4acda0-142a-4f59-83d1-3c3fd704cb63)
-![User](https://github.com/DoooHyun/Portfolio/assets/134381988/a325be07-ae80-46c6-a009-d43e44ce2bd9)
+![User](https://github.com/DoooHyun/Portfolio/assets/134381988/81a76016-eeb7-40b6-9c12-16e1394cba9c)
 
 
 
