@@ -37,7 +37,7 @@
  ===========
 
  ### 공지&이벤트 메인 페이지
-![Main1](https://github.com/DoooHyun/Portfolio/assets/134381988/f294a00e-bcae-42fc-9d5e-adb1b0c426e7)
+![Main1](https://github.com/DoooHyun/Portfolio/assets/134381988/31a8f54b-c67c-4ade-ae88-925f03c03f21)
 
 ### 공지&이벤트 작성 페이지
 ![create1](https://github.com/DoooHyun/Portfolio/assets/134381988/1179e37f-354d-4b80-9886-142927b17f9c)
