@@ -60,8 +60,9 @@
 
 ### 5. 공지&이벤트 수정 페이지
 - 공지&이벤트 글을 수정할 수 있으며 사진 수정도 가능
-![modify1](https://github.com/DoooHyun/Portfolio/assets/134381988/d5d30f8a-1fb8-4e3e-84d6-97f115450e33)
-![modify2](https://github.com/DoooHyun/Portfolio/assets/134381988/5b3554bb-eb55-4672-b2f8-a714b56c7fcc)
+![modify1](https://github.com/DoooHyun/Portfolio/assets/134381988/528fec91-56bc-487b-a998-f50738cd8ace)
+![modify2](https://github.com/DoooHyun/Portfolio/assets/134381988/481c97a5-49b7-4e25-809a-05b0e00a55ce)
+
 
 ### 6. 공지&이벤트 리스트 페이지
 - 작성된 글들을 카드 형식으로 유저가 볼 수 있음
